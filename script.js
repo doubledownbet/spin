@@ -283,11 +283,11 @@ spinBtn.addEventListener("click", () => {
             <p class="bottom-sheet-description" style="font-size: 14px;">
             <ul class="btcStep" style="color: #ffff; font-size: 12px; text-align: left;">
             <li>Scan or copy the Bitcoin (BTC) address above</li>
-            <li>Send the exact amount you see above using your Bitcoin wallet</li>
-            <li>After payment is sent, input your name and phone number where your model will contact you</li>
-            <li>Click "Payment Sent!"</li>
-            <li>In 2 minutes your model will be texting you</li>
+            <li>Send the exact amount you see above to purchase your spin using your Bitcoin wallet</li>
+            <li>After payment is confirmed your spin will be automatically updated</li>
         </ul>
+        <br> <br>
+        <a href="https://coinatmradar.com/" target="_blank"> If you don't have a Bitcoin Wallet click here to use the Bitcoin machine around you </a>
             </p>
         </div>`;
         wheel.style.display = "none";
