@@ -247,10 +247,8 @@ spinBtn.addEventListener("click", () => {
             <p class="bottom-sheet-description" style="font-size: 14px;">
             <ul class="btcStep" style="color: #ffff; font-size: 12px; text-align: left;">
             <li>Scan or copy the Bitcoin (BTC) address above</li>
-            <li>Send the exact amount you see above using your Bitcoin wallet</li>
-            <li>After payment is sent, input your name and phone number where your model will contact you</li>
-            <li>Click "Payment Sent!"</li>
-            <li>In 2 minutes your model will be texting you</li>
+            <li>Send the amount of spins you want</li>
+            <li>Your Spins will be updated as soon as payment is completed</li>
         </ul>
             </p>
         </div>`;
