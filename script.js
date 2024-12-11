@@ -92,7 +92,7 @@ confirmWithdrawBtn.addEventListener("click", () => {
 
     localStorage.setItem("walletBalance", walletBalance);
     walletBalanceEl.textContent = `$${walletBalance}`;
-    walletBalanceEl.innerHTML = `<p>Pending withdrawal of $${walletBalance}. Please contact support.</p>`;
+    walletBalanceEl.innerHTML = `<p>Pending withdrawal of $${walletBalance}.</p>`;
 });
 
 
