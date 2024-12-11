@@ -190,6 +190,39 @@ spinBtn.addEventListener("click", () => {
         <div id="bottom-sheet">
         <div class="bottom-sheet-content">
 
+        <button style="
+                                        padding: 3px 5px;
+    border-radius: 12px;
+    border: 1px solid;
+    background-color: darkred;
+    color: #ffff;
+    font-size: 14px;
+                                        ">
+                                            $70 for 5 spins 
+                                        </button>
+
+                                        <button style="
+                                        padding: 3px 5px;
+    border-radius: 12px;
+    border: 1px solid;
+    background-color: darkred;
+    color: #ffff;
+    font-size: 14px;
+                                        ">
+                                            $150 for 12 spins 
+                                        </button>
+
+                                        <button style="
+                                        padding: 3px 5px;
+    border-radius: 12px;
+    border: 1px solid;
+    background-color: darkred;
+    color: #ffff;
+    font-size: 14px;
+                                        ">
+                                            $300 for 30 spins 
+                                        </button>
+
                                     <p style="padding: 0;
                                     font-size: 14px;">
                                         Pay with
